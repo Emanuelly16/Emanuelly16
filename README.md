@@ -1,4 +1,4 @@
-#Olá! Eu sou Emanuelly Lima
+Olá! Eu sou Emanuelly Lima
 
 - 🌱 Estou estudando front end
 - 📚 aprendendo Typerscript
